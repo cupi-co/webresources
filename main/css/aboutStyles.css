@@ -1,0 +1,12 @@
+#aboutusRow img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 992px) {
+  #aboutusRow {
+    text-align: center;
+  }
+}
